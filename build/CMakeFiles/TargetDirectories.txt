@@ -1,0 +1,8 @@
+/home/tom/infra/build/CMakeFiles/rebuild_cache.dir
+/home/tom/infra/build/CMakeFiles/edit_cache.dir
+/home/tom/infra/build/CMakeFiles/infra.dir
+/home/tom/infra/build/deps/CMakeFiles/rebuild_cache.dir
+/home/tom/infra/build/deps/CMakeFiles/edit_cache.dir
+/home/tom/infra/build/deps/fmt-7.0.1/CMakeFiles/edit_cache.dir
+/home/tom/infra/build/deps/fmt-7.0.1/CMakeFiles/rebuild_cache.dir
+/home/tom/infra/build/deps/fmt-7.0.1/CMakeFiles/fmt.dir

@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/tom/infra/build",
+  "command": "/usr/bin/c++   -I/home/tom/infra/deps/fmt-7.0.1/include    -o CMakeFiles/infra.dir/src/main.cxx.o -c /home/tom/infra/src/main.cxx",
+  "file": "/home/tom/infra/src/main.cxx"
+},
+{
+  "directory": "/home/tom/infra/build",
+  "command": "/usr/bin/c++   -I/home/tom/infra/deps/fmt-7.0.1/include    -o CMakeFiles/infra.dir/src/colour.cxx.o -c /home/tom/infra/src/colour.cxx",
+  "file": "/home/tom/infra/src/colour.cxx"
+},
+{
+  "directory": "/home/tom/infra/build",
+  "command": "/usr/bin/c++   -I/home/tom/infra/deps/fmt-7.0.1/include    -o CMakeFiles/infra.dir/src/formatting.cxx.o -c /home/tom/infra/src/formatting.cxx",
+  "file": "/home/tom/infra/src/formatting.cxx"
+},
+{
+  "directory": "/home/tom/infra/build/deps/fmt-7.0.1",
+  "command": "/usr/bin/c++   -I/home/tom/infra/deps/fmt-7.0.1/include    -std=gnu++11 -o CMakeFiles/fmt.dir/src/format.cc.o -c /home/tom/infra/deps/fmt-7.0.1/src/format.cc",
+  "file": "/home/tom/infra/deps/fmt-7.0.1/src/format.cc"
+},
+{
+  "directory": "/home/tom/infra/build/deps/fmt-7.0.1",
+  "command": "/usr/bin/c++   -I/home/tom/infra/deps/fmt-7.0.1/include    -std=gnu++11 -o CMakeFiles/fmt.dir/src/os.cc.o -c /home/tom/infra/deps/fmt-7.0.1/src/os.cc",
+  "file": "/home/tom/infra/deps/fmt-7.0.1/src/os.cc"
+}
+]
